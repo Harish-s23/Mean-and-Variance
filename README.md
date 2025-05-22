@@ -1,3 +1,7 @@
+Developed by: HARESH R
+
+Register number: 212224040097
+
 #  Mean and variance of a discrete  distribution
 
 
